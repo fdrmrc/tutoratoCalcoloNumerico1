@@ -1,0 +1,6 @@
+ERRORE 		0.0192008 con h 	0.1
+ERRORE 		0.00184674 con h 	0.01
+ERRORE 		0.000183649 con h 	0.001
+ERRORE 		1.83911e-05 con h 	0.0001
+ERRORE 		1.83937e-06 con h 	1e-05
+ERRORE 		1.8394e-07 con h 	1e-06
