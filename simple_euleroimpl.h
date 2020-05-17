@@ -43,11 +43,11 @@ int last_comp(){
 // Eulero implicito, caso scalare
 
 double F(double x, double tn, double yn){
-	return x - yn - h*fun(tn,x);
+	return x - yn - h*fun(tn+h,x);
 }
 
 double JF(double x, double tn, double yn){
-	return  1 - h*jfun(tn,x);
+	return  1 - h*jfun(tn+h,x);
 }
 
 
